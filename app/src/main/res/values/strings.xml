@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">appAutenticacao</string>
+    <string name="txtTitle">Usuário Logado no Google!</string>
+</resources>
